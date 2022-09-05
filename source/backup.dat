@@ -1,0 +1,11 @@
+[
+	{
+		"backup_time" : 1662370373,
+		"file_size" : 1200012,
+		"filename" : "hello.txt",
+		"pack_flag" : true,
+		"pack_path" : "./pack_dir/hello.txt.zip",
+		"real_path" : "./backup_dir/hello.txt",
+		"url_path" : "/download/hello.txt"
+	}
+]
